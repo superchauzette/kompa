@@ -2499,6 +2499,11 @@ react-dom@^17.0.2:
     object-assign "^4.1.1"
     scheduler "^0.20.2"
 
+react-icons@^4.3.1:
+  version "4.3.1"
+  resolved "https://registry.yarnpkg.com/react-icons/-/react-icons-4.3.1.tgz#2fa92aebbbc71f43d2db2ed1aed07361124e91ca"
+  integrity sha512-cB10MXLTs3gVuXimblAdI71jrJx8njrJZmNMEMC+sQu5B/BIOmlsAjskdqpn81y8UBVEGuHODd7/ci5DvoSzTQ==
+
 react-router-dom@^6.2.1:
   version "6.2.1"
   resolved "https://registry.yarnpkg.com/react-router-dom/-/react-router-dom-6.2.1.tgz#32ec81829152fbb8a7b045bf593a22eadf019bec"
@@ -2732,6 +2737,11 @@ side-channel@^1.0.4:
     call-bind "^1.0.0"
     get-intrinsic "^1.0.2"
     object-inspect "^1.9.0"
+
+slug@^5.1.1:
+  version "5.1.1"
+  resolved "https://registry.yarnpkg.com/slug/-/slug-5.1.1.tgz#8552534bde2f564d1167672530613fbea15e87c7"
+  integrity sha512-QPbRRFNK6AMY4ubNCZ/2Wx/JnLO7YQnjEOgA4ptgcyMzL4SjnwkRVp1Kkp7cigF2eP2FNVAhRjBeRkd6wWZzbg==
 
 source-map-support@^0.5.20:
   version "0.5.21"

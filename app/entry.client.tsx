@@ -1,4 +1,10 @@
 import { hydrate } from "react-dom";
 import { RemixBrowser } from "remix";
+import { TrackProvider } from "./components/trackContext";
 
-hydrate(<RemixBrowser />, document);
+hydrate(
+  <TrackProvider>
+    <RemixBrowser />
+  </TrackProvider>,
+  document
+);
